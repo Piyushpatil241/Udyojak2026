@@ -1,4 +1,4 @@
-# Event '25 Website
+# Udyojak2026 Website
 
 A modern, dark-themed, responsive event website built with React + Vite, Tailwind CSS, and Framer Motion.
 
@@ -52,6 +52,8 @@ npm run preview
 
 ```
 src/
+├── assets/
+|   ├──Logo.jpeg
 ├── components/          # Reusable React components
 │   ├── Accordion.jsx
 │   ├── Countdown.jsx

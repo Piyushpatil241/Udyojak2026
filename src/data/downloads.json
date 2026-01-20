@@ -6,30 +6,6 @@
     "description": "Complete event guide with all details, rules, and information",
     "type": "PDF",
     "action": "Download"
-  },
-  {
-    "id": "download2",
-    "icon": "",
-    "title": "Live Event Status",
-    "description": "Real-time updates on ongoing events and results",
-    "type": "Live",
-    "action": "Open"
-  },
-  {
-    "id": "download3",
-    "icon": "",
-    "title": "Event Schedule PDF",
-    "description": "Downloadable schedule for both days in PDF format",
-    "type": "PDF",
-    "action": "Download"
-  },
-  {
-    "id": "download4",
-    "icon": "",
-    "title": "Campus Map",
-    "description": "Interactive map showing all event venues and locations",
-    "type": "Map",
-    "action": "Open"
   }
 ]
 

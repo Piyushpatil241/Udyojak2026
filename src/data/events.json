@@ -1,0 +1,50 @@
+[
+  {
+    "id": "seminar",
+    "name": "Seminar",
+    "description": "Interactive seminar. Day 1, 9:00am–11:30am in Room 2 Science.",
+    "externalLink": "https://share.google/3qtULU2V4JpmF8S9Y"
+  },
+  {
+    "id": "stock-a-thon",
+    "name": "Stock-A-Thon",
+    "description": "Stock market simulation challenge. Day 1, 10:00am–2:00pm in Room 25 Science.",
+    "externalLink": "https://docs.google.com/forms/d/e/1FAIpQLScpGa8s8YuFXhb7igJyMPP8ETeHVGC-1LBS20bTInNHhMaGCg/viewform?usp=publish-editor"
+  },
+  {
+    "id": "face-painting",
+    "name": "Face Painting",
+    "description": "Creative face art competition. Day 1, 11:00am–2:00pm in Room 26 Science.",
+    "externalLink": "https://docs.google.com/forms/d/e/1FAIpQLSeN-p2OA4BAfoXzrBa900F7ANo38j4JaLqYXO-2LxDHz1CMfw/viewform?usp=publish-editor"
+  },
+  {
+    "id": "outstanding-udyojak",
+    "name": "Outstanding Udyojak",
+    "description": "Flagship Udyojak event. Day 1, 1:00pm–4:00pm in Room 2 Science.",
+    "externalLink": "https://docs.google.com/forms/d/e/1FAIpQLSfnVCyKyfPRc7Fqmukrr_ZQdd7jnz0ZJUD3lOMwZl0_fLlK4g/viewform?usp=publish-editor"
+  },
+  {
+    "id": "monte-carlo",
+    "name": "Monte Carlo",
+    "description": "Probability and casino-style games event. Day 1, 2:00pm–5:00pm in Room 12 Arts.",
+    "externalLink": "https://docs.google.com/forms/d/e/1FAIpQLSfF_fGyISCRgeAMN7VMzGkZO37pNR2acUkl4C_GQbSZLC0PnQ/viewform?usp=publish-editor"
+  },
+  {
+    "id": "baggage-battle",
+    "name": "Baggage Battle",
+    "description": "Team-based strategy challenge. Day 2, 9:00am–1:00pm in Room 25 Science.",
+    "externalLink": "https://docs.google.com/forms/d/e/1FAIpQLSfnVCyKyfPRc7Fqmukrr_ZQdd7jnz0ZJUD3lOMwZl0_fLlK4g/viewform?usp=publish-editor"
+  },
+  {
+    "id": "street-play",
+    "name": "Street Play",
+    "description": "Impactful street theatre performance. Day 2, 11:30am–3:30pm at Rupangan.",
+    "externalLink": "https://docs.google.com/forms/d/e/1FAIpQLSdw0049uMZcCKlnal4kf3ZG_TXM3lzXh6NqTjsd14mP-g7tOQ/viewform?usp=publish-editor"  },
+  {
+    "id": "weakest-link",
+    "name": "Weakest Link",
+    "description": "Quiz-style elimination game. Day 2, 11:30am–3:30pm in Room 2 Science.",
+    "externalLink": "https://docs.google.com/forms/d/e/1FAIpQLSeI6Ag5EYPuBUu9clqzbJHn_C3CHdyFu3CpPMAw4m9BrXQ97g/viewform?usp=publish-editor"
+  }
+]
+

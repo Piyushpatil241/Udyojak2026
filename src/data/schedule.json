@@ -1,0 +1,53 @@
+{
+  "day1": {
+    "date": "Jan 27",
+    "events": [
+      {
+        "time": "9:00am–11:30am",
+        "name": "Seminar",
+        "venue": "Room 2 Science"
+      },
+      {
+        "time": "10:00am–2:00pm",
+        "name": "Stock-A-Thon",
+        "venue": "Room 25 Science"
+      },
+      {
+        "time": "11:00am–2:00pm",
+        "name": "Face Painting",
+        "venue": "Room 26 Science"
+      },
+      {
+        "time": "1:00pm–4:00pm",
+        "name": "Outstanding Udyojak",
+        "venue": "Room 2 Science"
+      },
+      {
+        "time": "2:00pm–5:00pm",
+        "name": "Monte Carlo",
+        "venue": "Room 12 Arts"
+      }
+    ]
+  },
+  "day2": {
+    "date": "Jan 28",
+    "events": [
+      {
+        "time": "9:00am–1:00pm",
+        "name": "Baggage Battle",
+        "venue": "Room 25 Science"
+      },
+      {
+        "time": "11:30am–3:30pm",
+        "name": "Street Play",
+        "venue": "Rupangan"
+      },
+      {
+        "time": "11:30am–3:30pm",
+        "name": "Weakest Link",
+        "venue": "Room 2 Science"
+      }
+    ]
+  }
+}
+

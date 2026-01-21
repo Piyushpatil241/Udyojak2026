@@ -92,7 +92,7 @@ function App() {
         className="fixed bottom-0 left-0 right-0 gradient-logo-bg text-white py-3 md:py-4 z-50"
       >
         <div className="text-center font-semibold text-sm md:text-base">
-          Registrations closing soon!!!! • 23rd January
+          Registrations closing soon!!!! • 24th January
         </div>
       </motion.div>
     </div>

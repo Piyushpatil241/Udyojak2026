@@ -9,12 +9,10 @@ const EventCard = ({ event, index }) => {
       transition={{ delay: index * 0.05 }}
       className="bg-card rounded-xl p-5 md:p-6 ticket-style hover:bg-card-hover transition-all glow-primary-hover"
     >
-      <h4 className="text-lg md:text-xl font-serif gradient-logo mb-2">
+      <h4 className="text-lg md:text-xl font-serif text-white mb-2">
         {event.name}
       </h4>
-      <p className="text-white text-sm md:text-base mb-4">
-        {event.description}
-      </p>
+      
 
       {event.externalLink ? (
         <motion.a

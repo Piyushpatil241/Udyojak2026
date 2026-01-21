@@ -11,7 +11,7 @@ const DownloadCard = ({ item, index }) => {
     >
       <div className="text-4xl md:text-5xl">{item.icon}</div>
       <div className="flex-1">
-        <h4 className="text-lg md:text-xl font-serif gradient-logo mb-1">
+        <h4 className="text-lg md:text-xl font-serif text-white mb-1">
           {item.title}
         </h4>
         <p className="text-white text-sm md:text-base">

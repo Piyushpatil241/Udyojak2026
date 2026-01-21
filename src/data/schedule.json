@@ -10,12 +10,12 @@
       {
         "time": "10:00am–2:00pm",
         "name": "Stock-A-Thon",
-        "venue": "Room 25 Science"
+        "venue": "Classroom 25 Science"
       },
       {
         "time": "11:00am–2:00pm",
         "name": "Ad-Fiction",
-        "venue": "Room 26 Science"
+        "venue": "Rupangan"
       },
       {
         "time": "1:00pm–4:00pm",
@@ -25,7 +25,7 @@
       {
         "time": "2:00pm–5:00pm",
         "name": "Monte Carlo",
-        "venue": "Room 12 Arts"
+        "venue": "Classroom 12 Arts"
       }
     ]
   },
@@ -35,7 +35,7 @@
       {
         "time": "9:00am–1:00pm",
         "name": "Baggage Battle",
-        "venue": "Room 25 Science"
+        "venue": "Classroom 25 Science"
       },
       {
         "time": "11:30am–3:30pm",

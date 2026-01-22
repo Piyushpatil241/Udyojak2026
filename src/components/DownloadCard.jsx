@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import { Download, ExternalLink } from 'lucide-react'
+import brochurePdf from '../assets/UDYOJAK 2026 BROCHURE.pdf'
 
 const DownloadCard = ({ item, index }) => {
   return (
@@ -18,23 +19,30 @@ const DownloadCard = ({ item, index }) => {
           {item.description}
         </p>
       </div>
-      <motion.button
-        className="flex items-center gap-2 px-4 py-2 gradient-logo-bg text-white rounded-lg font-semibold hover:opacity-90 transition-all whitespace-nowrap"
-        whileHover={{ scale: 1.05 }}
-        whileTap={{ scale: 0.95 }}
+      <a
+        href={item.action === 'Download' ? brochurePdf : item.link}
+        download={item.action === 'Download'}
+        target={item.action === 'View' ? "_blank" : undefined}
+        rel="noopener noreferrer"
       >
-        {item.action === 'Download' ? (
-          <>
-            <Download className="w-4 h-4" />
-            {item.action}
-          </>
-        ) : (
-          <>
-            <ExternalLink className="w-4 h-4" />
-            {item.action}
-          </>
-        )}
-      </motion.button>
+        <motion.button
+          className="flex items-center gap-2 px-4 py-2 gradient-logo-bg text-white rounded-lg font-semibold hover:opacity-90 transition-all whitespace-nowrap"
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95 }}
+        >
+          {item.action === 'Download' ? (
+            <>
+              <Download className="w-4 h-4" />
+              {item.action}
+            </>
+          ) : (
+            <>
+              <ExternalLink className="w-4 h-4" />
+              {item.action}
+            </>
+          )}
+        </motion.button>
+      </a>
     </motion.div>
   )
 }
